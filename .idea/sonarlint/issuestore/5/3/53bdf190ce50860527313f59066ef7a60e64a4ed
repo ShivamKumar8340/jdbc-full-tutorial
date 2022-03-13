@@ -1,0 +1,11 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ü€Ûıüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ãáúÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(«Ä•§
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞŸü‚
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ì’«şÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€ÔÜÆ
+^
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(—º–
+e
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¶İş 
